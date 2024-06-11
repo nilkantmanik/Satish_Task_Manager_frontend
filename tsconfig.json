@@ -6,7 +6,7 @@
     "module": "ESNext",
     "skipLibCheck": true,
     "noImplicitAny": false,
-    "noUnusedLocals": false,
+    "noUnusedLocals": true,
 
     /* Bundler mode */
     "moduleResolution": "bundler",
